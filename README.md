@@ -3,9 +3,13 @@ A collection of tweaks to Windows 10, made to tidy up the operating system, for 
 
 ## What kind of tweaks are available?
 Each of the tweaks falls into a distinct category.
+
 **Disable-** usually turns off a Windows feature.
+
 **Enable-** usually turns on a Windows feature that is not on by default.
+
 **Prevent-** usually stop Windows from performing a particular action, in most cases these are annoyances that run automatically.
+
 **Remove-** usually turns off a paricular UI element.
 
 ## How do I use this?
