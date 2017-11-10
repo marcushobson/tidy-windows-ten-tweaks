@@ -19,7 +19,7 @@ Simply download, unzip and double click any of the .reg files to apply changes t
 Windows 10. Some might work on earlier versions, such as 8, but many will be redundant for earlier iterations of Windows.
 
 ## What's in the pipeline?
-Tweaks that require user input. Some of these are ready, I just need to find the time to present them nicely.
+Tweaks that require user input. Some of these are ready, I just need to find the time to present them nicely. This means that a **Modify-** prefix is likely to appear at some point, too.
 
 ## Can I contribute?
 Feel free, that's why it's public!
